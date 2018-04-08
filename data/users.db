@@ -1,0 +1,4 @@
+{"email":"feathers@example.com","password":"$2a$12$Y.nR.hTv7FKK6iyktkbQPe54iD6Tb5B3G09PDlxBEZtEgF3YMiKK2","_id":"TwJzX6OeM5BdQHv2"}
+{"email":"","password":"$2a$12$TxFd3EE4epWccVnY/jGG3.hhLaH4s6DAIkeRMiExfHTib9tID5Mve","_id":"Txrz2oGmZD4yDnsP"}
+{"email":"sneakjunkmail@gmail.com","password":"$2a$12$6OCNzmsw6ifzI.vh0BotVO9HdnlHonBbmcMwNw7awhSCf/QtJ3o5C","_id":"gEavQqmWrsIHqIra"}
+{"$$indexCreated":{"fieldName":"email","unique":true,"sparse":false}}
